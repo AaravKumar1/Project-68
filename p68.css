@@ -1,0 +1,39 @@
+.marquee{
+    background-color: lightseagreen;
+    color: maroon;
+    font-weight: 800;
+}
+body{
+    text-align: center;
+    background:linear-gradient(grey,turquoise);
+}
+iframe{
+    border: solid;
+    border-width: 10px;
+    border-color: grey;
+}
+#contact{
+    text-align: center;
+    margin-left: 35px;
+}
+.c{
+    text-align: center;
+}
+.map{
+    margin-left: 35px;
+    margin-bottom: 10px;
+}
+h4{
+    background-color: lightseagreen;
+    border: solid;
+    border-radius: 10px;
+
+}
+.line{
+    background-color: maroon;
+    height: 10px;
+    text-align: left;
+}
+#contact{
+    text-align: center;
+}
